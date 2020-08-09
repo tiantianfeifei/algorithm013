@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29924.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Homework", "Algorithm.Homework.csproj", "{5B7293A6-1DB8-487A-AE4B-701D0F24238F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Homework", "Algorithm.Homework.csproj", "{5B7293A6-1DB8-487A-AE4B-701D0F24238F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Algorithm.Homework", "..\2.Algorithm.Homework\2.Algorithm.Homework.csproj", "{221B94A9-E898-4282-B0B4-4972D25ED827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5B7293A6-1DB8-487A-AE4B-701D0F24238F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B7293A6-1DB8-487A-AE4B-701D0F24238F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B7293A6-1DB8-487A-AE4B-701D0F24238F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221B94A9-E898-4282-B0B4-4972D25ED827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221B94A9-E898-4282-B0B4-4972D25ED827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221B94A9-E898-4282-B0B4-4972D25ED827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221B94A9-E898-4282-B0B4-4972D25ED827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
